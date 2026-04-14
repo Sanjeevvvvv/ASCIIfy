@@ -53,8 +53,10 @@ Rendering: HTML5 Canvas for pixel sampling.
 Algorithms: Floyd-Steinberg dithering, Sobel edge detection, in-browser.
 Deployment: Vercel static hosting — deploy in 30 seconds.
 
-![Screenshot_14-4-2026_115541_vercel com](https://github.com/user-attachments/assets/b2244fae-9763-4d4b-b289-134d633a5a8a)
-![Screenshot_14-4-2026_115541_vercel com](https://github.com/user-attachments/assets/8d841636-138f-4d39-82ef-3d624b3dcf3d)
+![Screenshot_14-4-2026_123048_asciify-five vercel app](https://github.com/user-attachments/assets/35e358c4-9357-47c0-9bc2-70542d449103)
+
+![Screenshot_14-4-2026_123253_asciify-five vercel app](https://github.com/user-attachments/assets/72af33a1-98c6-423a-b259-1cdaa37484a6)
+
 <img width="740" height="625" alt="ascii" src="https://github.com/user-attachments/assets/3aa99f16-6b22-4a66-bdca-9d7ae5c15db1" />
 
 
